@@ -1,4 +1,3 @@
-https://vinay-portfolio-ochre.vercel.app
 # Vinay Shah — Portfolio
 
 Personal portfolio of a full-stack (MERN) and AI developer from Surat, India.
